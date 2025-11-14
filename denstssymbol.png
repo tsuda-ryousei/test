@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <!-- Google Tag Manager 電通大様-->
+    <script>
+        (function(w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start': new Date().getTime(),
+                event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s),
+                dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'myNewName', 'GTM-WLZG2PC');
+    </script>
+    <!-- End Google Tag Manager -->
+
+
+    <!-- Google Tag Manager start キュリアス様-->
+    <script>
+        (function(w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start': new Date().getTime(),
+                event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s),
+                dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-M6GXZQB');
+    </script>
+    <!-- Google Tag Manager end -->
+
+
+    <!-- Google Tag Manager by Career-tasu-->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-N2HV82ST');</script>
+    <!-- End Google Tag Manager by Career-tasu-->
+
+
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=1024">    <meta name="format-detection" content="telephone=no,address=no,email=no">
+    <meta name="description" content="人間力と技術力を磨き、自らの力で前進できる人材を育成・輩出します。">
+    <meta name="keywords" content="大阪電気通信大学,OECU,大学,工学,医療福祉,情報,大学受験,入試,オープンキャンパス,産学官連携">
+
+    <!--Facebook -->
+            <meta property="og:type" content="article">
+        <meta property="og:title" content="ヴィジュアル・アイデンティティ(VI) | 学校法人 大阪電気通信大学">
+    <meta property="og:url" content="http://www.osakac.ac.jp/corp/vi/">
+    <meta property="og:image" content="http://www.osakac.ac.jp/corp/common/img/thumb_fb.gif">
+    <meta property="og:description" content="人間力と技術力を磨き、自らの力で前進できる人材を育成・輩出します。">
+    <meta property="og:site_name" content="学校法人 大阪電気通信大学">
+    <!--end -->
+
+        <link rel="icon" href="/favicon.ico">
+    <link rel="apple-touch-icon" href="/common_ikou/img/icon.png">
+    <link rel='stylesheet' href='//fonts.googleapis.com/css?family=Roboto:400,300,100,700,500'>
+    <link rel='stylesheet' href='//fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700'>
+    <link rel="stylesheet" href="/corp/common/css/lib/lity.min.css">
+    <link rel="stylesheet" href="/corp/common/css/common.css?date=20180926">
+
+    <!-- <link rel="stylesheet" href="/common/css/common.css" media="all"> -->
+    <!-- <link rel="stylesheet" href="/common/css/layout.css" media="all"> -->
+    <link rel="stylesheet" href="/common_ikou/css/style.css" media="all">
+
+    <link rel="stylesheet" href="css/style.css">    <title>ヴィジュアル・アイデンティティ(VI) | 学校法人 大阪電気通信大学</title>
+</head>
+
+<body>
+
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WLZG2PC" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M6GXZQB" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <!-- Google Tag Manager by Career-tasu(noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N2HV82ST"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager by Career-tasu(noscript) -->
+
+    <header>
+        <div class="head-inner">
+
+            <div class="head-ttl-wrap">
+                <h1 class="head-ttl"><a href="/corp/"><img src="/corp/common/img/head_logo02.gif" alt="大阪電気通信大学" class="pc-item"><img src="/corp/common/img/head_logo02_sp.gif" alt="大阪電気通信大学" class="sp-item"></a></h1>
+                <div id="head-sp-menu-btn"><a href="javascript:void(0);"><span>メニュー</span></a></div>
+            </div>
+
+            <div class="head-cont">
+
+                <nav class="head-gnav-wrap">
+                    <ul class="head-gnav">
+                        <li>
+                            <a href="/corp/" class="exparent"><span>ホーム</span></a>
+                        </li>
+                        <li>
+                            <a href="/corp/message/" class=""><span>理事長挨拶</span></a>
+                        </li>
+                        <li>
+                            <a href="/corp/mv2/"><span>学園の指針と約束</span></a>
+                        </li>
+                        <li>
+                            <a href="/corp/vi/"><span>学園ヴィジュアル・アイデンティティ</span></a>
+                        </li>
+                        <li class="gnav-parent">
+                            <div class="gnav-parent-item">
+                                <a href="/corp/about/"><span>学園情報</span></a>
+                                <div class="gnav-parent-btn sp-item"><a href="#"></a></div>
+                            </div>
+                            <ul class="gnav-child">
+                                <li><a href="/corp/about/donation-act/"><span>寄附行為</span></a></li>
+                                <li><a href="/corp/about/history/"><span>学園沿革</span></a></li>
+                                <li><a href="/corp/about/organization/"><span>学園組織図</span></a></li>
+                                <li><a href="/corp/about/member/"><span>理事・監事紹介</span></a></li>
+                                <li><a href="/corp/about/term-plan/"><span>中長期計画</span></a></li>
+                                <li><a href="/corp/about/disclosure/"><span>情報公開</span></a></li>
+                                <li><a href="/corp/about/governance/"><span>ガバナンス・コード</span></a></li>
+                                <li><a href="/corp/about/financial-data/"><span>事業報告書・財務情報</span></a></li>
+                                <li><a href="/corp/about/general-plan/"><span>一般事業主行動計画・ダイバーシティ推進等への取り組み</span></a></li>
+                                <li><a href="/corp/univnews/"><span>学園報</span></a></li>
+                            </ul>
+                        </li>
+                        <li class="gnav-parent">
+                            <div class="gnav-parent-item">
+                                <a href="/corp/about/"><span>大阪電気通信大学への寄付について</span></a>
+                                <div class="gnav-parent-btn sp-item"><a href="#"></a></div>
+                            </div>
+                            <ul class="gnav-child">
+                                <li><a href="/corp/donation/message/"><span>ご挨拶</span></a></li>
+                                <li><a href="/corp/donation/general/"><span>一般寄付</span></a></li>
+                                <li><a href="/corp/donation/secondhand_book/"><span>古本募金</span></a></li>
+                                <li><a href="/corp/donation/yahoo/"><span>Yahoo!ネット募金</span></a></li>
+                                <li><a href="/corp/donation/inheritance/"><span>遺贈・相続財産からのご寄付</span></a></li>
+                                <li><a href="/corp/donation/favorable_treatment/"><span>寄付金に対する税制上の優遇措置</span></a></li>
+                                <li><a href="/corp/donation/recognition/"><span>顕彰制度</span></a></li>
+                                <li><a href="/corp/donation/register_plate/"><span>WEB芳名録</span></a></li>
+                                <li><a href="/corp/pdf/activity_report.pdf" target="_blank"><span>創立80周年記念事業募金・一般募金　活動報告書</span></a></li>
+                                <li><a href="/corp/donation/message_from_donor/"><span>ご寄付者からのメッセージ</span></a></li>
+                            </ul>
+                        </li>
+                        <li class="gnav-parent">
+                            <div class="gnav-parent-item">
+                                <a href="/corp/about/"><span>お知らせ・トピックス</span></a>
+                                <div class="gnav-parent-btn sp-item"><a href="#"></a></div>
+                            </div>
+                            <ul class="gnav-child">
+                                                  <li><a href="/corp/news/2025/"><span>2025年</span></a></li>
+                  <li><a href="/corp/news/2024/"><span>2024年</span></a></li>
+                  <li><a href="/corp/news/2023/"><span>2023年</span></a></li>
+                  <li><a href="/corp/news/2022/"><span>2022年</span></a></li>
+                  <li><a href="/corp/news/2021/"><span>2021年</span></a></li>
+                  <li><a href="/corp/news/2020/"><span>2020年</span></a></li>
+                  <li><a href="/corp/news/2019/"><span>2019年</span></a></li>
+                  <li><a href="/corp/news/2018/"><span>2018年</span></a></li>
+                  <li><a href="/corp/news/2017/"><span>2017年</span></a></li>
+                  <li><a href="/corp/news/2016/"><span>2016年</span></a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="/corp/etc/recruit/"><span>採用情報</span></a>
+                        </li>
+
+                    </ul>
+                </nav>
+
+                <div class="head-cont-inner">
+                    <div class="head-labo-list-btn">
+                        <ul>
+                            <li><a href="/corp/access/">アクセス</a></li>
+                            <li><a href="/inquiry/" target="_blank">お問い合わせ</a></li>
+                        </ul>
+                    </div>
+
+                    <p class="head-bnr-fixed pc-item"><a href="/80th/" target="_blank"><img src="/corp/common/img/bnr_80th.jpg" alt="学園創立80周年記念事業　募金のお願い" width="210" height="270" class="fade"></a></p>
+
+                   
+
+                    <p class="head-bnr-fixed pc-item"><a href="/corp/donation/message/" target=""><img src="/corp/common/img/bnr_donation.jpg" alt="大阪電気通信大学へのご支援をお考えの方へ" width="210" height="83" class=""></a></p>
+
+
+
+                </div>
+                <p class="head-cont-close-btn sp-item"><a href="#"><span>閉じる</span></a></p>
+            </div>
+        </div>
+    </header>
+    <!-- /////////////////////////////////////////////// header end -->
+
+    <div id="wrapper">
+<div id="contents">
+
+  <article id="main" class="main-under">
+
+    <div class="main-head">
+      <div class="main-head-inner">
+        <div class="main-head-ttl-wrap">
+          <h1 class="main-head-ttl">ヴィジュアル・アイデンティティ(VI)</h1>
+        </div>
+      </div>
+    </div>
+
+
+    <!-- //////////////////////////////////////////////// #main start -->
+    <div class="main-cont">
+
+<div class="section">
+<p class="text-c img"><img src="img/logo.png" width="500" height="" alt="" /></p>
+<p>学校法人大阪電気通信大学は、1941 年の東亜電気通信工学校創立以来、高校・大学での教育を通して有為な人材を数多く輩出し、社会から高い評価を得てきました。<br>
+2016年度、初心に戻って本学園の基本となるビジョンを再確認するため、学園の果たすべき使命、それを実現するための心構え、到達すべき将来像を示した指針 MV2(Mission,Value,Vision）を策定しました。<br>
+そして、2021 年に学園創立80周年を迎えるにあたり、この指針の実現に向けて、学校法人大阪電気通信大学のアイデンティティをより明確にし、ブランド価値の向上を図るために学校法人大阪電気通信大学ヴィジュアル・アイデンティティ(VI)を制定しました。</p>
+<!-- //.section --></div>
+
+<div class="section">
+<h2 class="bg-title">タグライン</h2>
+<p class="text-c img"><img src="img/tag.png" width="450" height="" alt="タグライン" /></p>
+<p>知性、知力、知識、人の心を知る力といった「知」をもって、人と人、技術と技術をつなぐことを「つなぐ知」と表現しています。そして、技術、学術、手わざといった「技」をもって、人や社会が求めているものをつくること、自分が希望する未来を実現することを「かなえる技」と表現しています。「人間力」「技術力」に通じるこの2つの能力を身につけた学生・生徒を育むという学園の意思が、本タグラインには込められています。</p>
+<!-- //.section --></div>
+
+
+<div class="section">
+<h2 class="bg-title">シンボルマーク</h2>
+<p class="text-c img"><img src="img/symbol.png" width="150" height="" alt="シンボルマーク" /></p>
+<p>2つの螺旋をつなげて正円をつくり、色の重なりによって渦を巻き融合するイメージを表しています。グリーンとオレンジが交わり合って一つの形を成し、学校法人大阪電気通信大学の教育の特色である「人間力」と「技術力」の融合を表現しています。同時に、教職員・学生・生徒・保護者といった人と人との融和・つながりを大切にする学園である、との意味もこのマークには込められています。</p>
+<!-- //.section --></div>
+
+
+<div class="section">
+<h2 class="bg-title">スクールカラー</h2>
+<p class="text-c img"><img src="img/color.png" width="450" height="" alt="スクールカラー" /></p>
+
+<!-- //.section --></div>
+
+
+<div class="section">
+<h2 class="bg-title">ロゴタイプ</h2>
+<p class="text-c img"><img src="img/type.png" class="" width="375" height="" alt="ロゴタイプ" /></p>
+
+<!-- //.section --></div>
+    </div>
+
+  </article>
+  <!-- //////////////////////////////////////////////// #main end -->
+
+</div>
+
+<!-- /////////////////////////////////////////////// footer start -->
+<footer>
+
+
+    <div class="foot-inner fbox">
+        <p class="foot-btn"><a href="/corp/etc/sitepolicy/">サイトポリシー</a>　　<a href="/corp/etc/privacy/">個人情報保護方針</a>　　<a href="/corp/etc/privacy/#section02">個人情報保護</a><br><a href="/corp/donation/message/">学校法人大阪電気通信大学へのご支援をお考えの方へ
+            </a></p>
+        <p class="copyright">Copyright &copy; Osaka Electro-Communication University, All Rights Reserved.</p>
+    </div>
+
+</footer>
+<!-- /////////////////////////////////////////////// footer end -->
+
+<!--//#wrapper-->
+</div>
+<p id="pagetop"><a href="#" class="btn btn-green"></a></p>
+
+
+<script src="/corp/common/js/jquery-2.1.4.min.js"></script>
+<script src="/corp/common/js/lib/lity.min.js"></script>
+<script src="/corp/common/js/app_rsp.js"></script>
+<script src="/corp/common/js/common.js"></script>
+
+<!--  -->
+<!-- レイアウト別 js -->
+<script src="/corp/common/js/type_a.js"></script>
+<!-- レイアウト別 js -->
+
+
+
+</body>
+
+</html>
